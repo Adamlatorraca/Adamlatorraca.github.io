@@ -1,11 +1,11 @@
 # Site settings
 author: Adam LaTorraca
-title: 
+title: Rubber Duck
 header-img: img/home-bg.png
 email: adam.latorraca@gmail.com
 copyright_name: Adam LaTorraca
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Debugging My Mind
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Adamlatorraca
